@@ -3,6 +3,7 @@
 
 ## 📌 Project Description
 Simple DEX is a decentralized exchange smart contract built using Soroban on the Stellar network. It allows users to deposit tokens, withdraw them, and perform simple token swaps using predefined rates.
+<img width="960" height="440" alt="image" src="https://github.com/user-attachments/assets/1292a752-99f8-4d22-8438-897f80014927" />
 
 ---
 
