@@ -27,7 +27,7 @@ Simple DEX is a decentralized exchange smart contract built using Soroban on the
 Simple DEX: _Add your deployed contract link here_
 
 Example:
-https://stellar.expert/explorer/public/contract/XXXXXXXXXXXXXXXX
+https://stellar.expert/explorer/testnet/contract/CAIKS6U5C2CTSBJMA3Q3N4T2NXSF432RS33UEIFCXNETLJH3M5ISISWF
 
 ---
 
