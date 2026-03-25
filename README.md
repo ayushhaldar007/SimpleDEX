@@ -44,6 +44,8 @@ https://stellar.expert/explorer/testnet/contract/CAIKS6U5C2CTSBJMA3Q3N4T2NXSF432
 - Multi-token support
 - Frontend UI integration
 
+<img width="959" height="464" alt="image" src="https://github.com/user-attachments/assets/3b4c1392-f5c7-49c8-aaba-41b3d3b506dc" />
+
 ---
 
 ## 👨‍💻 Author
